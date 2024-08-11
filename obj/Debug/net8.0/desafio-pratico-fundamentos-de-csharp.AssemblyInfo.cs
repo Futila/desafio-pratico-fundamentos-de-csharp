@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafio-pratico-fundamentos-de-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4732182e5d86e37742137cd3bafa1f5487b873ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafio-pratico-fundamentos-de-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafio-pratico-fundamentos-de-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
