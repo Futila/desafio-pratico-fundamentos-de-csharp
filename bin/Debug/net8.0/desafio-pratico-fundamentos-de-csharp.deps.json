@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafio-pratico-fundamentos-de-csharp/1.0.0": {
+        "runtime": {
+          "desafio-pratico-fundamentos-de-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-pratico-fundamentos-de-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
